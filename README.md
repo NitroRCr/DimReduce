@@ -1,5 +1,6 @@
 # DimReduce
 基于PCA主成分分析实现的《三体》中关于降维打击一种可视化方案
+[示例地址](http://server.krytro.com:5003)
 
 # 运行方式
 首先安装nodejs环境，然后在当前目录下：
